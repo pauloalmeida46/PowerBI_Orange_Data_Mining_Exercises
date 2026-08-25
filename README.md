@@ -1,1 +1,3 @@
 # PowerBI_Orange_Data_Mining_Exercises
+
+Essa atividade tem como objetivo trabalhar todo o processo de manipulação e análise da qualidade dos dados, desde a criação de bases fictícias até sua exploração e tratamento utilizando Excel, Power BI, Orange Data Mining e MariaDB. Ao longo dos exercícios, são abordados conceitos como dados vazios, validade, acurácia, duplicidade e consistência, permitindo criar bases corretas, inserir propositalmente problemas e depois identificá-los e tratá-los. Além disso, a atividade envolve a visualização e análise dos dados, a criação de relacionamentos entre tabelas e a mineração de informações, ajudando a compreender como a qualidade dos dados influencia diretamente os resultados das análises. 
