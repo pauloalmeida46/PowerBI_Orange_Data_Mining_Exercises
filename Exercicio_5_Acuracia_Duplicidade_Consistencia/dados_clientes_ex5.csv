@@ -1,0 +1,106 @@
+id_cliente,nome,idade,data_nascimento,cidade,estado,renda
+1,Hugo Pereira,42,1969-09-22,Fortaleza,CE,3667.47
+2,Wesley Alves,34,1992-12-13,Rio de Janeiro,RJ,8525.21
+3,Tiago Monteiro,57,1969-08-07,Rio de Janeiro,RJ,7018.62
+4,Vinicius Rodrigues,68,1958-06-27,Curitiba,PR,6555.94
+5,Katia Oliveira,47,1979-11-06,Belo Horizonte,MG,12929.55
+6,Bruno Nascimento,61,1965-02-16,Brasilia,DF,5566.03
+7,Rafael Oliveira,18,2008-07-07,Brasilia,DF,6202.93
+8,Bruno Fernandes,51,1975-04-20,Recife,PE,7585.27
+9,Olivia Cardoso,31,1995-12-06,Belo Horizonte,MG,11515.61
+10,Ana Costa,50,1976-11-06,Belo Horizonte,MG,1711.46
+11,Ursula Oliveira,61,1965-07-03,Recife,PE,14126.22
+12,Elaine Ribeiro,37,1989-10-01,Belo Horizonte,MG,6458.65
+13,Isabela Alves,30,1996-01-21,Fortaleza,CE,4117.81
+14,Pedro Souza,70,1938-12-10,Fortaleza,CE,14190.66
+15,Elaine Cardoso,65,1961-12-20,Belo Horizonte,MG,11949.4
+16,Fabio Costa,25,2001-02-04,Fortaleza,CE,3182.54
+17,Pedro Almeida,27,1999-04-18,Fortaleza,MG,5603.67
+18,Queila Lima,25,1988-03-24,Porto Alegre,RS,10560.88
+19,Mariana Araujo,55,1971-01-11,Sao Paulo,SP,4185.25
+20,Carla Costa,42,1984-07-27,Fortaleza,RJ,6319.48
+21,Olivia Almeida,41,1985-12-28,Sao Paulo,SP,6700.4
+22,Joao Santos,72,1954-11-08,Porto Alegre,RS,10216.42
+23,Mariana Lima,31,1995-12-22,Salvador,BA,11020.3
+24,Isabela Oliveira,66,1960-02-15,Recife,PE,7011.31
+25,Pedro Alves,36,1990-11-28,Brasilia,PR,5624.22
+26,Nelson Cardoso,75,1951-05-14,Belo Horizonte,MG,13365.79
+27,Tiago Martins,36,1990-07-22,Belo Horizonte,MG,10561.23
+28,Vinicius Fernandes,42,1984-06-07,Curitiba,PR,5966.28
+29,Zeca Nascimento,72,1954-04-22,Porto Alegre,RS,10415.87
+30,Lucas Carvalho,65,1961-12-08,Fortaleza,BA,6833.79
+31,Queila Lima,25,2001-09-18,Sao Paulo,SP,3994.47
+32,Ximena Gomes,50,1976-08-07,Belo Horizonte,MG,4841.91
+33,Ursula Cardoso,53,1973-09-21,Recife,PE,9753.29
+34,Zeca Lima,30,1996-12-01,Porto Alegre,RS,14993.63
+35,Lucas Alves,55,1971-01-02,Rio de Janeiro,RJ,6951.47
+36,Zeca Carvalho,54,1972-05-07,Manaus,AM,11641.96
+37,Elaine Pereira,68,1958-03-09,Fortaleza,AM,7559.35
+38,Rafael Costa,73,1953-12-23,Recife,PE,6568.51
+39,Wesley Carvalho,34,1992-04-09,Salvador,BA,7591.64
+40,Pedro Costa,70,1956-08-19,Belo Horizonte,MG,13522.43
+41,Diego Araujo,52,1974-04-15,Rio de Janeiro,RJ,8419.81
+42,Sabrina Alves,22,2004-06-21,Recife,PE,11325.44
+43,Isabela Costa,58,1968-01-19,Porto Alegre,AM,5603.38
+44,Katia Ribeiro,55,1971-01-13,Belo Horizonte,MG,1698.75
+45,Bruno Gomes,53,1973-05-06,Curitiba,PR,12762.11
+46,Isabela Nascimento,69,1957-04-04,Curitiba,PR,7888.33
+47,Fabio Fernandes,22,2004-09-07,Salvador,BA,11903.13
+48,Elaine Pereira,23,2003-12-22,Brasilia,DF,2767.19
+49,Ursula Carvalho,52,1974-02-02,Belo Horizonte,MG,11676.73
+50,Yasmin Cardoso,40,1986-12-08,Belo Horizonte,MG,9686.78
+51,Nelson Rodrigues,39,1987-01-11,Belo Horizonte,MG,12370.11
+52,Ursula Ribeiro,29,1997-12-04,Porto Alegre,RS,3222.61
+53,Zeca Almeida,32,1994-07-22,Sao Paulo,SP,12147.27
+54,Carla Costa,46,1980-12-26,Manaus,AM,9513.88
+55,Sabrina Souza,67,1959-08-12,Belo Horizonte,MG,4691.43
+56,Elaine Silva,43,1983-01-10,Manaus,AM,14290.54
+57,Pedro Gomes,69,1957-09-10,Porto Alegre,RS,5203.41
+58,Katia Araujo,20,2006-06-06,Rio de Janeiro,RJ,9569.42
+59,Tiago Almeida,69,1957-01-13,Salvador,CE,12431.67
+60,Joao Carvalho,27,1999-12-22,Brasilia,DF,1455.87
+61,Queila Gomes,50,1976-12-25,Fortaleza,CE,4344.05
+62,Sabrina Santos,31,1995-04-21,Sao Paulo,SP,4785.33
+63,Elaine Costa,18,2008-10-01,Fortaleza,CE,12759.64
+64,Nelson Pereira,21,2005-05-06,Porto Alegre,RS,9200.61
+65,Olivia Oliveira,59,1967-01-17,Sao Paulo,RJ,6662.39
+66,Pedro Cardoso,55,1971-04-11,Belo Horizonte,PE,7198.39
+67,Sabrina Rocha,41,1985-09-06,Rio de Janeiro,RJ,4410.17
+68,Zeca Costa,63,1947-02-25,Curitiba,PR,9637.12
+69,Vinicius Nascimento,48,1978-12-08,Belo Horizonte,MG,3578.83
+70,Rafael Oliveira,59,1967-09-22,Belo Horizonte,MG,12250.21
+71,Nelson Carvalho,33,1993-09-08,Curitiba,PR,10681.95
+72,Yasmin Monteiro,53,1956-05-07,Brasilia,DF,4656.86
+73,Ana Souza,49,1977-04-04,Salvador,BA,12149.77
+74,Vinicius Lima,21,2005-06-07,Fortaleza,CE,13967.88
+75,Queila Lima,35,1991-11-09,Belo Horizonte,MG,1339.88
+76,Mariana Pereira,64,1962-06-04,Curitiba,PR,3398.28
+77,Ana Fernandes,51,1975-05-07,Porto Alegre,RS,7443.04
+78,Mariana Silva,27,1999-10-03,Curitiba,PR,12720.56
+79,Yasmin Oliveira,38,1988-07-08,Salvador,PE,8628.74
+80,Tiago Nascimento,19,2007-03-07,Sao Paulo,SP,4265.24
+81,Nelson Oliveira,59,1967-01-14,Rio de Janeiro,RJ,2772.7
+82,Yasmin Alves,49,1977-07-18,Salvador,BA,13289.91
+83,Isabela Ribeiro,38,1988-12-12,Porto Alegre,RS,12355.91
+84,Tiago Santos,22,2004-01-08,Curitiba,PR,4885.42
+85,Gabriela Martins,74,1952-05-20,Porto Alegre,RS,9823.16
+86,Carla Carvalho,51,1975-01-20,Recife,PE,11463.12
+87,Zeca Martins,65,1961-01-10,Rio de Janeiro,RJ,8019.76
+88,Tiago Alves,68,1958-06-17,Fortaleza,CE,14949.94
+89,Sabrina Nascimento,36,1990-07-25,Rio de Janeiro,RJ,4076.11
+90,Carla Silva,65,1961-08-11,Recife,PE,14946.43
+91,Nelson Rodrigues,54,1972-02-21,Sao Paulo,SP,2989.86
+92,Ana Silva,74,1952-11-22,Fortaleza,CE,9291.17
+93,Ursula Santos,69,1957-06-07,Rio de Janeiro,RJ,4010.75
+94,Yasmin Lima,45,1981-05-06,Sao Paulo,SP,12763.1
+95,Fabio Gomes,63,1963-07-04,Belo Horizonte,MG,5474.74
+96,Queila Lima,58,1968-02-03,Fortaleza,CE,4911.92
+97,Ximena Santos,72,1954-12-06,Porto Alegre,RS,11590.44
+98,Pedro Carvalho,65,1961-10-27,Sao Paulo,SP,2163.77
+99,Yasmin Ribeiro,74,1952-05-20,Belo Horizonte,MG,7884.01
+100,Ursula Costa,71,1955-08-09,Porto Alegre,RS,8101.44
+75,Queila Lima,35,1991-11-09,Belo Horizonte,MG,1339.88
+11,Ursula Oliveira,61,1965-07-03,Recife,PE,14126.22
+2,Wesley Alves,34,1992-12-13,Rio de Janeiro,RJ,8525.21
+55,Sabrina Souza,67,1959-08-12,Belo Horizonte,MG,4691.43
+12,Elaine Ribeiro,37,1989-10-01,Belo Horizonte,MG,6458.65

@@ -1,0 +1,33 @@
+id_cliente,nome,idade,cidade,estado
+1,Katia Ribeiro,50,Rio de Janeiro,RJ
+2,Hugo Cardoso,57,Rio de Janeiro,RJ
+3,Nelson Monteiro,53,Brasilia,DF
+4,Yasmin Monteiro,46,Recife,PE
+5,Ana Cardoso,23,Curitiba,PR
+6,Joao Santos,46,Rio de Janeiro,RJ
+7,Vinicius Rocha,,Sao Paulo,SP
+8,Gabriela Carvalho,34,Salvador,BA
+9,Lucas Carvalho,65,Salvador,BA
+10,Ursula Oliveira,64,,DF
+11,Carla Alves,52,Salvador,BA
+12,Joao Martins,,Porto Alegre,RS
+13,Joao Silva,72,Manaus,AM
+14,Lucas Martins,45,Salvador,BA
+15,Mariana Monteiro,53,Rio de Janeiro,RJ
+16,Diego Gomes,50,Recife,PE
+17,Pedro Carvalho,-8,Manaus,AM
+18,Nelson Monteiro,48,,RS
+19,Queila Silva,210,Brasilia,DF
+20,Yasmin Pereira,70,Curitiba,PR
+21,Wesley Ribeiro,74,Sao Paulo,SP
+22,Wesley Cardoso,45,Rio de Janeiro,RJ
+23,Elaine Rocha,74,Recife,PE
+24,Diego Martins,61,Curitiba,PR
+25,Wesley Alves,34,,PE
+26,Mariana Lima,53,Brasilia,DF
+27,Wesley Rocha,69,Brasilia,XX
+28,Nelson Rodrigues,36,Fortaleza,CE
+29,Ana Souza,27,Porto Alegre,RS
+30,Olivia Ribeiro,,Manaus,AM
+31,Wesley Rocha,69,Brasilia,XX
+32,Diego Gomes,50,Recife,PE

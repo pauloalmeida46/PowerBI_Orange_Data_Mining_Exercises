@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scheme version="2.0" title="Exercicio 6 - Orange + MariaDB" description="">
+	<nodes>
+		<node id="0" name="File" qualified_name="Orange.widgets.data.owfile.OWFile" project_name="Orange3" version="" title="File - clientes_ex6" position="(30, 50)" />
+		<node id="1" name="File" qualified_name="Orange.widgets.data.owfile.OWFile" project_name="Orange3" version="" title="File - produtos_ex6" position="(30, 200)" />
+		<node id="2" name="File" qualified_name="Orange.widgets.data.owfile.OWFile" project_name="Orange3" version="" title="File - vendas_ex6" position="(30, 350)" />
+		<node id="3" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWDataTable" project_name="Orange3" version="" title="Data Table (clientes)" position="(280, 50)" />
+		<node id="4" name="Feature Statistics" qualified_name="Orange.widgets.data.owfeaturestatistics.OWFeatureStatistics" project_name="Orange3" version="" title="Feature Statistics (clientes)" position="(280, 130)" />
+		<node id="5" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWDataTable" project_name="Orange3" version="" title="Data Table (produtos)" position="(280, 200)" />
+		<node id="6" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWDataTable" project_name="Orange3" version="" title="Data Table (vendas)" position="(280, 350)" />
+		<node id="7" name="Feature Statistics" qualified_name="Orange.widgets.data.owfeaturestatistics.OWFeatureStatistics" project_name="Orange3" version="" title="Feature Statistics (vendas)" position="(280, 430)" />
+		<node id="8" name="Merge Data" qualified_name="Orange.widgets.data.owmergedata.OWMergeData" project_name="Orange3" version="" title="Merge Data (vendas x clientes)" position="(530, 250)" />
+		<node id="9" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWDataTable" project_name="Orange3" version="" title="Data Table (vendas + clientes)" position="(760, 250)" />
+	</nodes>
+	<links>
+		<link id="0" source_node_id="0" sink_node_id="3" source_channel="Data" sink_channel="Data" enabled="true" />
+		<link id="1" source_node_id="0" sink_node_id="4" source_channel="Data" sink_channel="Data" enabled="true" />
+		<link id="2" source_node_id="1" sink_node_id="5" source_channel="Data" sink_channel="Data" enabled="true" />
+		<link id="3" source_node_id="2" sink_node_id="6" source_channel="Data" sink_channel="Data" enabled="true" />
+		<link id="4" source_node_id="2" sink_node_id="7" source_channel="Data" sink_channel="Data" enabled="true" />
+		<link id="5" source_node_id="2" sink_node_id="8" source_channel="Data" sink_channel="Data" enabled="true" />
+		<link id="6" source_node_id="0" sink_node_id="8" source_channel="Data" sink_channel="Extra Data" enabled="true" />
+		<link id="7" source_node_id="8" sink_node_id="9" source_channel="Data" sink_channel="Data" enabled="true" />
+	</links>
+	<annotations/>
+	<thumbnail/>
+	<node_properties>
+		<properties node_id="0" format="pickle">gAR9lC4=</properties>
+		<properties node_id="1" format="pickle">gAR9lC4=</properties>
+		<properties node_id="2" format="pickle">gAR9lC4=</properties>
+		<properties node_id="3" format="pickle">gAR9lC4=</properties>
+		<properties node_id="4" format="pickle">gAR9lC4=</properties>
+		<properties node_id="5" format="pickle">gAR9lC4=</properties>
+		<properties node_id="6" format="pickle">gAR9lC4=</properties>
+		<properties node_id="7" format="pickle">gAR9lC4=</properties>
+		<properties node_id="8" format="pickle">gAR9lC4=</properties>
+		<properties node_id="9" format="pickle">gAR9lC4=</properties>
+	</node_properties>
+	<session_state>
+		<window_groups/>
+	</session_state>
+</scheme>
